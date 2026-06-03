@@ -6,7 +6,7 @@ Building scalable systems, modern web applications, and performance-focused solu
 
 ---
 
-- LinkedIn: https://linkedin.com/in/alex-makasighe-7381051a5
+- LinkedIn: https://linkedin.com/in/alexmakasighe
 - Email: alexmakasighe2@gmail.com
 
 ---
