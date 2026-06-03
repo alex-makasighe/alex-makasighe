@@ -11,3 +11,11 @@ Building scalable systems, modern web applications, and performance-focused solu
 
 ---
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alexmakasighe&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmakasighe&layout=compact&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmakasighe&theme=dark)
+
