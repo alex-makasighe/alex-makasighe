@@ -199,8 +199,8 @@ I actively learn from and contribute to the open-source ecosystem through softwa
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/alex-makasighe-7381051a5
+- Email: alexmakasighe2@gmail.com
 
 ---
 
