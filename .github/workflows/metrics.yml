@@ -17,7 +17,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ github.token }}
-          user: alexmakasighe
+          user: alex-makasighe
 
           template: classic
           base: header, activity, community, repositories
